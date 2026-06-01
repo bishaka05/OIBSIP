@@ -76,3 +76,48 @@ The dataset contains information about:
 
 The analysis revealed variations in unemployment across different states and areas of India. A significant increase in unemployment was observed during the Covid-19 period, highlighting its impact on the labour market.
 
+# Task 3: UNEMPLOYMENT ANALYSIS WITH PYTHON
+
+## Objective
+
+Analyze unemployment trends in India and study the impact of Covid-19 using data analysis and visualization techniques.
+
+## Dataset
+
+The dataset contains information about:
+
+* Region (State)
+* Date
+* Area (Urban/Rural)
+* Estimated Unemployment Rate (%)
+* Estimated Employed
+* Labour Participation Rate (%)
+
+## Technologies Used
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+
+## Project Workflow
+
+1. Data Loading
+2. Data Cleaning
+3. Exploratory Data Analysis (EDA)
+4. Data Visualization
+5. Trend Analysis
+6. Insights Generation
+
+## Visualizations
+
+* Unemployment Rate by Region
+* Covid-19 Impact on Unemployment
+* Labour Participation Rate Analysis
+
+## Conclusion
+
+The analysis revealed variations in unemployment across different states and areas of India. A significant increase in unemployment was observed during the Covid-19 period, highlighting its impact on the labour market.
+
+
