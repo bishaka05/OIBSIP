@@ -76,22 +76,25 @@ The dataset contains information about:
 
 The analysis revealed variations in unemployment across different states and areas of India. A significant increase in unemployment was observed during the Covid-19 period, highlighting its impact on the labour market.
 
-# Task 3: UNEMPLOYMENT ANALYSIS WITH PYTHON
+# Task 3: Car Price Prediction with Machine Learning
 
 ## Objective
 
-Analyze unemployment trends in India and study the impact of Covid-19 using data analysis and visualization techniques.
+Develop a machine learning model to predict the selling price of used cars based on various factors such as car age, present price, fuel type, transmission type, and kilometers driven.
 
 ## Dataset
 
 The dataset contains information about:
 
-* Region (State)
-* Date
-* Area (Urban/Rural)
-* Estimated Unemployment Rate (%)
-* Estimated Employed
-* Labour Participation Rate (%)
+* Car Name
+* Year
+* Selling Price
+* Present Price
+* Kilometers Driven
+* Fuel Type
+* Seller Type
+* Transmission Type
+* Number of Previous Owners
 
 ## Technologies Used
 
@@ -100,24 +103,22 @@ The dataset contains information about:
 * NumPy
 * Matplotlib
 * Seaborn
+* Scikit-learn
 
 ## Project Workflow
 
-1. Data Loading
-2. Data Cleaning
-3. Exploratory Data Analysis (EDA)
-4. Data Visualization
-5. Trend Analysis
-6. Insights Generation
-
-## Visualizations
-
-* Unemployment Rate by Region
-* Covid-19 Impact on Unemployment
-* Labour Participation Rate Analysis
+* Data Loading
+* Data Cleaning
+* Feature Engineering
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+* Data Preprocessing
+* Model Training using Random Forest Regressor
+* Model Evaluation
+* Price Prediction
 
 ## Conclusion
 
-The analysis revealed variations in unemployment across different states and areas of India. A significant increase in unemployment was observed during the Covid-19 period, highlighting its impact on the labour market.
+The machine learning model successfully predicted car selling prices using historical car data. Factors such as present price, car age, fuel type, and kilometers driven were found to significantly influence the selling price. The Random Forest Regressor provided accurate predictions and demonstrated the effectiveness of machine learning techniques in solving real-world price prediction problems.
 
 
