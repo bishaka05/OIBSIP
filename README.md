@@ -121,4 +121,44 @@ The dataset contains information about:
 
 The machine learning model successfully predicted car selling prices using historical car data. Factors such as present price, car age, fuel type, and kilometers driven were found to significantly influence the selling price. The Random Forest Regressor provided accurate predictions and demonstrated the effectiveness of machine learning techniques in solving real-world price prediction problems.
 
+# Task 4: Email Spam Detection with Machine Learning
+
+## Objective
+
+Build a machine learning model to classify emails as spam or non-spam (ham) using natural language processing and text classification techniques.
+
+## Dataset
+
+The dataset contains information about:
+
+* Email Label (Spam/Ham)
+* Email Message Content
+
+## Technologies Used
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-learn
+* TF-IDF Vectorizer
+
+## Project Workflow
+
+* Data Loading
+* Data Cleaning
+* Text Preprocessing
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+* Feature Extraction using TF-IDF
+* Model Training using Multinomial Naive Bayes
+* Model Evaluation
+* Spam Prediction
+
+## Conclusion
+
+The machine learning model successfully classified emails into spam and non-spam categories. Using TF-IDF vectorization and the Multinomial Naive Bayes algorithm, the model achieved high accuracy in detecting spam messages. This project demonstrates the effectiveness of machine learning and natural language processing techniques for email filtering and spam detection.
+
+
 
