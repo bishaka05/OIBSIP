@@ -1,8 +1,6 @@
 # OIBSIP
 
-
-
-
+A collection of Data Science and Machine Learning projects completed during my Oasis Infobyte Data Science Internship. Exploring data, uncovering insights, and building intelligent solutions through Python and analytics.
 
 # Task 1 Iris Flower Classification
 
@@ -159,6 +157,45 @@ The dataset contains information about:
 ## Conclusion
 
 The machine learning model successfully classified emails into spam and non-spam categories. Using TF-IDF vectorization and the Multinomial Naive Bayes algorithm, the model achieved high accuracy in detecting spam messages. This project demonstrates the effectiveness of machine learning and natural language processing techniques for email filtering and spam detection.
+
+# Task 5: Sales Prediction Using Python
+
+## Objective
+
+Develop a machine learning model to predict product sales based on advertising expenditures across different media platforms such as TV, Radio, and Newspaper.
+
+## Dataset
+
+The dataset contains information about:
+
+* TV Advertising Budget
+* Radio Advertising Budget
+* Newspaper Advertising Budget
+* Sales
+
+## Technologies Used
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-learn
+
+## Project Workflow
+
+* Data Loading
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+* Feature Selection
+* Model Training using Linear Regression
+* Model Evaluation
+* Sales Prediction
+
+## Conclusion
+
+The machine learning model successfully predicted sales based on advertising expenditures. The analysis showed that advertising budgets, especially TV and Radio advertising, have a strong influence on sales performance. Linear Regression provided reliable predictions and demonstrated how machine learning can be used for business decision-making and sales forecasting.
 
 
 
