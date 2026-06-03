@@ -1,6 +1,6 @@
 # OIBSIP
 
-A collection of Data Science and Machine Learning projects completed during my Oasis Infobyte Data Science Internship. Exploring data, uncovering insights, and building intelligent solutions through Python and analytics.
+A collection of Data Science and Machine Learning projects completed during my Oasis Infobyte Data Science Internship. Showcasing practical skills in data analysis, visualization, and predictive modeling while transforming data into meaningful insights and impactful solutions.
 
 # Task 1 Iris Flower Classification
 
